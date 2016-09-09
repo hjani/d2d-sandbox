@@ -1,0 +1,9 @@
+*.sdf
+*.suo
+*.ilk
+*.ipch
+*.opensdf
+d2d/d2d/Debug/
+d2d/Debug/
+d2d/d2d/Release/
+d2d/Release/
